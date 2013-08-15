@@ -1,0 +1,47 @@
+#navmenu {
+	height: 30px;
+	border-bottom:thin solid #666666;
+	border-top:thin solid #666666;
+	
+	}
+#navmenu span{
+	margin: 0 auto;
+	padding: 3px 20px 3px 20px;
+	float:left;
+	width:170px;
+}
+#log1{
+	width:auto;
+}
+/*#wrap {
+	height:600px ;
+}*/span#changepassword a{
+	z-index:500;
+	position:absolute;
+	right:-100px;
+	top:150px;
+	margin:none;
+	padding:5px 5px 5px 5px;
+	background-color:#FF0000;
+	color:#FC0;
+	border:none;
+}
+span#changepassword a:link,unvisited,visited{
+	z-index:500;
+	position:fixed;
+	right:-100px;
+	top:150px;
+	padding:5px 5px 5px 5px;
+	background-color:#FF0000;
+	color:#FC0;
+}
+span#changepassword a:hover{
+	z-index:500;
+	position:fixed;
+	right:-2px;
+	top:150px;
+	padding:5px 5px 5px 5px;
+	background-color:#FF0000;
+	color:#FC0;
+}
+		
